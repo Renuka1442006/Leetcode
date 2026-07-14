@@ -15,7 +15,7 @@ class Solution {
             return null;
 
         }
-        Stack<Integer> s=new Stack<>();
+       /* Stack<Integer> s=new Stack<>();
         ListNode temp=head;
         s.push(temp.val);
         while(temp.next!=null)
@@ -30,6 +30,17 @@ class Solution {
             curr=curr.next;
             curr.val=s.pop();
         }
-        return head;
+        */
+        ListNode pre=null;
+        ListNode curr=head;
+        
+        while(curr!=null)
+        {
+            ListNode next=curr.next;
+            curr.next=pre;
+            pre=curr;
+            curr=next;
+        }
+        return pre;
     }
 }
