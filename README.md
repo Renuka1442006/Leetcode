@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0002-add-two-numbers) |
 | [1025-divisor-game](https://github.com/Renuka1442006/Leetcode/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Renuka1442006/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Renuka1442006/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Renuka1442006/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Renuka1442006/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
