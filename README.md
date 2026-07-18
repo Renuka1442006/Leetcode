@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Renuka1442006/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
 ## Database
 |  |
 | ------- |
