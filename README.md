@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Renuka1442006/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
