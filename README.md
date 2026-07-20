@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Renuka1442006/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Renuka1442006/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Renuka1442006/Leetcode/tree/master/0342-power-of-four) |
 | [1025-divisor-game](https://github.com/Renuka1442006/Leetcode/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Renuka1442006/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Renuka1442006/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Renuka1442006/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Renuka1442006/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Renuka1442006/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Renuka1442006/Leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Renuka1442006/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Renuka1442006/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Renuka1442006/Leetcode/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Renuka1442006/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Database
