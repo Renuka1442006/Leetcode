@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Renuka1442006/Leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Renuka1442006/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Renuka1442006/Leetcode/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Renuka1442006/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Database
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Renuka1442006/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Renuka1442006/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Renuka1442006/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
