@@ -1,7 +1,7 @@
 class Solution {
     public int maxProduct(int n) {
-        
-        ArrayList<Integer> arr=new ArrayList<>();
+        /*
+        //ArrayList<Integer> arr=new ArrayList<>();
         int max=0;
         while(n>0)
         {
@@ -21,5 +21,23 @@ class Solution {
            
         }
         return max;
+        */
+        int largest=0;
+        int secondlargest=0;
+        while(n>0)
+        {
+            int rem=n%10;
+            if(rem>=largest)
+            {
+                secondlargest=largest;
+                largest=rem;
+            }
+            else if(rem>secondlargest && rem!=largest)
+            {
+                secondlargest=rem;
+            }
+            n/=10;
+        }
+        return largest*secondlargest;
     }
 }
