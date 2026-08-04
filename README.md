@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Renuka1442006/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Renuka1442006/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Renuka1442006/Leetcode/tree/master/0342-power-of-four) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Renuka1442006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/Renuka1442006/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Renuka1442006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Renuka1442006/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Renuka1442006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Renuka1442006/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Renuka1442006/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
