@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/Renuka1442006/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Renuka1442006/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Renuka1442006/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
