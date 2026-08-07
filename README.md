@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Renuka1442006/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Renuka1442006/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3731-find-missing-elements](https://github.com/Renuka1442006/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Renuka1442006/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Renuka1442006/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -371,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Renuka1442006/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
