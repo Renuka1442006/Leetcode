@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Renuka1442006/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Renuka1442006/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Renuka1442006/Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Renuka1442006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0848-shifting-letters](https://github.com/Renuka1442006/Leetcode/tree/master/0848-shifting-letters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Renuka1442006/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Renuka1442006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Renuka1442006/Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Renuka1442006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/Renuka1442006/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Renuka1442006/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Renuka1442006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Renuka1442006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Renuka1442006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Renuka1442006/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Renuka1442006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
