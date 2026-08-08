@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Renuka1442006/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Renuka1442006/Leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Renuka1442006/Leetcode/tree/master/0848-shifting-letters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Renuka1442006/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Renuka1442006/Leetcode/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Renuka1442006/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Renuka1442006/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Renuka1442006/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
