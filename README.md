@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Renuka1442006/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Renuka1442006/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Renuka1442006/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Renuka1442006/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Renuka1442006/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Renuka1442006/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Renuka1442006/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Brainteaser
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Renuka1442006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Renuka1442006/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Renuka1442006/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 ## Array
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Renuka1442006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Renuka1442006/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/Renuka1442006/Leetcode/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Renuka1442006/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Renuka1442006/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
@@ -372,10 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
