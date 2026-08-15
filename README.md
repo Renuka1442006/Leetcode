@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Renuka1442006/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Renuka1442006/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Renuka1442006/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Renuka1442006/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Renuka1442006/Leetcode/tree/master/0645-set-mismatch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Renuka1442006/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Renuka1442006/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Renuka1442006/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
 | ------- |
