@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Renuka1442006/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Renuka1442006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Renuka1442006/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Renuka1442006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Renuka1442006/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Renuka1442006/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Renuka1442006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Renuka1442006/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Renuka1442006/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Renuka1442006/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Renuka1442006/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Renuka1442006/Leetcode/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/Renuka1442006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Renuka1442006/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Renuka1442006/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Renuka1442006/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Renuka1442006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Renuka1442006/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Renuka1442006/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
