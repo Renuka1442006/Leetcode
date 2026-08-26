@@ -4,17 +4,14 @@ class Solution {
         
         int minlen = Integer.MAX_VALUE;
 
-        for (int i = 0; i < s.length(); i++) {
-
-            for (int j = i + 1; j <= s.length(); j++) {
-
+        for (int i = 0; i < s.length(); i++)
+        {
+            for (int j = i + 1; j <= s.length(); j++) 
+            {
                 String str = s.substring(i, j);
-
                 int count = 0;
-
                 for (int m = 0; m < str.length(); m++) {
                     char ch = str.charAt(m);
-
                     if (ch == '1') {
                         count++;
                     }
