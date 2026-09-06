@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Renuka1442006/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Renuka1442006/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Renuka1442006/Leetcode/tree/master/0326-power-of-three) |
