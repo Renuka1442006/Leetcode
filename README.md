@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Renuka1442006/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Renuka1442006/Leetcode/tree/master/1563-stone-game-v) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Renuka1442006/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Renuka1442006/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Renuka1442006/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Renuka1442006/Leetcode/tree/master/1927-sum-game) |
