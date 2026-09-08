@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Renuka1442006/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Renuka1442006/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Renuka1442006/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Renuka1442006/Leetcode/tree/master/0231-power-of-two) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Renuka1442006/Leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Renuka1442006/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -611,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Renuka1442006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Renuka1442006/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
