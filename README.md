@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Renuka1442006/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Renuka1442006/Leetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Renuka1442006/Leetcode/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/Renuka1442006/Leetcode/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/Renuka1442006/Leetcode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/Renuka1442006/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Renuka1442006/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Renuka1442006/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Renuka1442006/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Data Stream
 |  |
