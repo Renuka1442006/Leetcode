@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Renuka1442006/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Renuka1442006/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Renuka1442006/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Renuka1442006/Leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Renuka1442006/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Renuka1442006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0090-subsets-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Renuka1442006/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Renuka1442006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Renuka1442006/Leetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Renuka1442006/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -670,4 +672,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Renuka1442006/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Renuka1442006/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Renuka1442006/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
