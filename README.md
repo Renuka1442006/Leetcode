@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Renuka1442006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0848-shifting-letters](https://github.com/Renuka1442006/Leetcode/tree/master/0848-shifting-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Renuka1442006/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Renuka1442006/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Renuka1442006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Renuka1442006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Renuka1442006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Renuka1442006/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Renuka1442006/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Renuka1442006/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Renuka1442006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Renuka1442006/Leetcode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Renuka1442006/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Renuka1442006/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Renuka1442006/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Renuka1442006/Leetcode/tree/master/0901-online-stock-span) |
+| [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Renuka1442006/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/Renuka1442006/Leetcode/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Renuka1442006/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Tree
@@ -529,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Renuka1442006/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Renuka1442006/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Renuka1442006/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
