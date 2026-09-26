@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Renuka1442006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Renuka1442006/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0486-predict-the-winner](https://github.com/Renuka1442006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Renuka1442006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0912-sort-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Renuka1442006/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Renuka1442006/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Renuka1442006/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0835-image-overlap](https://github.com/Renuka1442006/Leetcode/tree/master/0835-image-overlap) |
 | [1314-matrix-block-sum](https://github.com/Renuka1442006/Leetcode/tree/master/1314-matrix-block-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Renuka1442006/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
