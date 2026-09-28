@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Renuka1442006/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Renuka1442006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Renuka1442006/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Renuka1442006/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Renuka1442006/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Renuka1442006/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0128-longest-consecutive-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Renuka1442006/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Renuka1442006/Leetcode/tree/master/0217-contains-duplicate) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Renuka1442006/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
