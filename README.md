@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Renuka1442006/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Renuka1442006/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Renuka1442006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Renuka1442006/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Renuka1442006/Leetcode/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Renuka1442006/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Renuka1442006/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Renuka1442006/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Renuka1442006/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Renuka1442006/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0848-shifting-letters](https://github.com/Renuka1442006/Leetcode/tree/master/0848-shifting-letters) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Renuka1442006/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Renuka1442006/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Renuka1442006/Leetcode/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Renuka1442006/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
