@@ -22,32 +22,36 @@ class Solution {
         }
         Queue<TreeNode> queue=new LinkedList<>();
         queue.offer(root);
-        answer.add(root.val);
+        //answer.add(root.val);
         while(!queue.isEmpty())
         {
             int size = queue.size();
-            List<Integer> level=new ArrayList<>();
+            //List<Integer> level=new ArrayList<>();
             for(int i=0;i<size;i++)
             {
                 TreeNode temp=queue.remove();
+                if(i==size-1)
+                {
+                    answer.add(temp.val);
+                }
                 if(temp.left!=null)
                 {
                     queue.offer(temp.left);
-                    level.add(temp.left.val);
+                    //level.add(temp.left.val);
 
                 }
                 if(temp.right!=null)
                 {
                     queue.offer(temp.right);
-                    level.add(temp.right.val);
+                    //level.add(temp.right.val);
                 }
             } 
-            int s=level.size();
-            if(s>0)
-            {
-                     int value=level.remove(s-1);
-            answer.add(value);
-            }
+            // int s=level.size();
+            // if(s>0)
+            // {
+            //          int value=level.remove(s-1);
+            // answer.add(value);
+            // }
            
 
         }
