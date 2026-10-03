@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Renuka1442006/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Renuka1442006/Leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Renuka1442006/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Renuka1442006/Leetcode/tree/master/0217-contains-duplicate) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Renuka1442006/Leetcode/tree/master/0056-merge-intervals) |
+| [0164-maximum-gap](https://github.com/Renuka1442006/Leetcode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Renuka1442006/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Renuka1442006/Leetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/Renuka1442006/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -494,10 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Renuka1442006/Leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Renuka1442006/Leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -790,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Renuka1442006/Leetcode/tree/master/0164-maximum-gap) |
 | [0523-continuous-subarray-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Renuka1442006/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## DP on Trees
