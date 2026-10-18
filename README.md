@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Renuka1442006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Renuka1442006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2899-last-visited-integers](https://github.com/Renuka1442006/Leetcode/tree/master/2899-last-visited-integers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Renuka1442006/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Renuka1442006/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Renuka1442006/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Renuka1442006/Leetcode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Renuka1442006/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2899-last-visited-integers](https://github.com/Renuka1442006/Leetcode/tree/master/2899-last-visited-integers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Renuka1442006/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
