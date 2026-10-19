@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Renuka1442006/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Renuka1442006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Renuka1442006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2899-last-visited-integers](https://github.com/Renuka1442006/Leetcode/tree/master/2899-last-visited-integers) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Renuka1442006/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Renuka1442006/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Renuka1442006/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Renuka1442006/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -929,9 +932,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Renuka1442006/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Renuka1442006/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
 <!---LeetCode Topics End-->
