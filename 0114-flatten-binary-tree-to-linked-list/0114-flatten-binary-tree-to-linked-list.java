@@ -13,34 +13,34 @@
  *     }
  * }
  */
+
+ //Brute force: preorder traversal-> store in arraylist and add the elements one by one
 class Solution {
-    private void preorder(TreeNode root,ArrayList<TreeNode> nodes)
+    TreeNode rightMost(TreeNode root)
     {
+        while(root.right!=null)
+        {
+            root=root.right;
+        }
+        return root;
+    }
+    public void flatten(TreeNode root) {
         if(root==null)
         {
             return;
         }
-        nodes.add(root);
-        preorder(root.left,nodes);
-        preorder(root.right,nodes);
-    }
-    public void flatten(TreeNode root) {
-        ArrayList<TreeNode> nodes=new ArrayList<>();
-        
-        preorder(root,nodes);
-        if(nodes.isEmpty())
+        TreeNode curr=root;
+        while(curr != null)
         {
-            return;
+            if(curr.left!=null)
+            {
+                TreeNode temp=curr.right;
+                curr.right=curr.left;
+                curr.left=null;
+                TreeNode rMost=rightMost(curr.right);
+                rMost.right=temp;
+            }
+            curr=curr.right;
         }
-        TreeNode nroot=nodes.get(0);
-        for(int i=1;i<nodes.size();i++)
-        {
-           
-            nroot.right=nodes.get(i);
-            nroot.left=null;
-            nroot=nroot.right;
-            
-        }
-        System.out.println(nroot);
     }
 }
