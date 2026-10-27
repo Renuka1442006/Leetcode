@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Renuka1442006/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Renuka1442006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Renuka1442006/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/Renuka1442006/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Renuka1442006/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Renuka1442006/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Renuka1442006/Leetcode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Renuka1442006/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Renuka1442006/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0090-subsets-ii) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0835-image-overlap](https://github.com/Renuka1442006/Leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Renuka1442006/Leetcode/tree/master/1254-number-of-closed-islands) |
