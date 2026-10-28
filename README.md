@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Renuka1442006/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Renuka1442006/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Renuka1442006/Leetcode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Renuka1442006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Renuka1442006/Leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Renuka1442006/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Renuka1442006/Leetcode/tree/master/0231-power-of-two) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Renuka1442006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Renuka1442006/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Renuka1442006/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Renuka1442006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Renuka1442006/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Renuka1442006/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Renuka1442006/Leetcode/tree/master/0338-counting-bits) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Renuka1442006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Renuka1442006/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Renuka1442006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Renuka1442006/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -768,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Renuka1442006/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Renuka1442006/Leetcode/tree/master/0173-binary-search-tree-iterator) |
