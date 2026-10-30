@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Renuka1442006/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Renuka1442006/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Renuka1442006/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Renuka1442006/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Renuka1442006/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Renuka1442006/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1005,4 +1008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Renuka1442006/Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Renuka1442006/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
