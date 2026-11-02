@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Renuka1442006/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Renuka1442006/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1089-duplicate-zeros](https://github.com/Renuka1442006/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Renuka1442006/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Renuka1442006/Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Renuka1442006/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Renuka1442006/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renuka1442006/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1089-duplicate-zeros](https://github.com/Renuka1442006/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Renuka1442006/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
