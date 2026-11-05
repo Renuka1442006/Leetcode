@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Renuka1442006/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1314-matrix-block-sum](https://github.com/Renuka1442006/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Renuka1442006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Renuka1442006/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Renuka1442006/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Renuka1442006/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Renuka1442006/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Renuka1442006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Renuka1442006/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Renuka1442006/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Renuka1442006/Leetcode/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Renuka1442006/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1089-duplicate-zeros](https://github.com/Renuka1442006/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Renuka1442006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Renuka1442006/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Renuka1442006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Renuka1442006/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Renuka1442006/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Renuka1442006/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Renuka1442006/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Renuka1442006/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Renuka1442006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Renuka1442006/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
