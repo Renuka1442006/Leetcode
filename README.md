@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Renuka1442006/Leetcode/tree/master/2509-cycle-length-queries-in-a-tree) |
+| [2747-count-zero-request-servers](https://github.com/Renuka1442006/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Renuka1442006/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Renuka1442006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Renuka1442006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Renuka1442006/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2747-count-zero-request-servers](https://github.com/Renuka1442006/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Renuka1442006/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Renuka1442006/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Renuka1442006/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Renuka1442006/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Renuka1442006/Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2747-count-zero-request-servers](https://github.com/Renuka1442006/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Renuka1442006/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Renuka1442006/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Renuka1442006/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Renuka1442006/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Renuka1442006/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Renuka1442006/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2747-count-zero-request-servers](https://github.com/Renuka1442006/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Renuka1442006/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Renuka1442006/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Renuka1442006/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
