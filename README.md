@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Renuka1442006/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Renuka1442006/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Renuka1442006/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Renuka1442006/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Renuka1442006/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Renuka1442006/Leetcode/tree/master/0735-asteroid-collision) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Renuka1442006/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Renuka1442006/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Renuka1442006/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2899-last-visited-integers](https://github.com/Renuka1442006/Leetcode/tree/master/2899-last-visited-integers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Renuka1442006/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Renuka1442006/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
